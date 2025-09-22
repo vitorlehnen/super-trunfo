@@ -22,19 +22,19 @@ Este programa em C simula um mini-jogo no estilo **Super Trunfo**, onde o jogado
 
 ### 1. **Salvar o código**
 
-Salve o código em um arquivo chamado `super_trunfo_cidades.c`.
+Salve o código em um arquivo chamado `super-trunfo.c`.
 
 ### 2. **Compilar com GCC**
 
 No terminal, use o seguinte comando para compilar:
 
 ```bash
-gcc super_trunfo_cidades.c -o super_trunfo_cidades
+gcc super-trunfo.c -o super-trunfo
 ```
 ### 3. **Executar**
 
 No terminal, use o seguinte comando para executar:
 
 ```bash
-./super_trunfo_cidades
+./super-trunfo
 ```
